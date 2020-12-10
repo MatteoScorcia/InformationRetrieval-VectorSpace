@@ -11,9 +11,9 @@
 
 ### Informations about the 2 implementations of the Information Retrieval Systems:
 - #### There are differences in the time necessary to response to a query drifted by the Relevance Feedback algorithm
-- #### This difference is caused by the differences in the search methods
+- #### This difference is caused by the differences in the search method
 
 ### How to read this project:
 - #### Follow the CreateEfficientVectorSpace notebook
-- #### Follow one of the InformationRetrievalVectorSpace-.... notebooks
+- #### Follow one of the InformationRetrievalVectorSpace notebooks
 - #### Compare the time needed to retrieve informations in the 2 different implementations of the InformationRetrievalVectorSpace notebooks
